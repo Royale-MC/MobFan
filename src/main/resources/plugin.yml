@@ -1,0 +1,9 @@
+name: MobFan
+version: '${project.version}'
+main: me.bully.mobfan.MobFan
+api-version: 1.19
+authors: [ BullyTheKingO ]
+description: Moving mobs made easy
+commands:
+  fancheck:
+    description: Check if the block is a fan
